@@ -1,0 +1,78 @@
+# ============================================================
+# ApolloSplat-Py requirements
+# Notebook-first Apollo 17 photogrammetry + Gaussian Splatting
+# Metrics, visualization, mesh processing, and ROS2 URDF export
+# ============================================================
+
+
+# ------------------------------------------------------------
+# Core numerical stack
+# ------------------------------------------------------------
+
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+
+
+# ------------------------------------------------------------
+# Image processing and reconstruction-quality metrics
+# PSNR, SSIM, image alignment, resizing, masking, etc.
+# ------------------------------------------------------------
+
+opencv-python>=4.8
+Pillow>=10.0
+scikit-image>=0.22
+imageio>=2.31
+
+
+# ------------------------------------------------------------
+# Plotting and visualization
+# ------------------------------------------------------------
+
+matplotlib>=3.8
+plotly>=5.18
+
+
+# ------------------------------------------------------------
+# 3D geometry, point clouds, meshes, and model comparison
+# Open3D: point cloud cleanup, Poisson reconstruction, ICP, distances
+# Trimesh: mesh IO, bounds, transforms, simple geometry utilities
+# ------------------------------------------------------------
+
+open3d>=0.18
+trimesh>=4.0
+
+
+# ------------------------------------------------------------
+# COLMAP Python helpers
+# Note: this does not replace the COLMAP executable.
+# COLMAP itself should be installed separately through apt/conda/source.
+# ------------------------------------------------------------
+
+pycolmap>=3.10
+
+
+# ------------------------------------------------------------
+# Notebook workflow
+# ------------------------------------------------------------
+
+jupyterlab>=4.0
+notebook>=7.0
+ipywidgets>=8.0
+ipykernel>=6.0
+
+
+# ------------------------------------------------------------
+# Progress bars, configs, CLI polish
+# ------------------------------------------------------------
+
+tqdm>=4.66
+PyYAML>=6.0
+rich>=13.0
+
+
+# ------------------------------------------------------------
+# Optional report/table utilities
+# ------------------------------------------------------------
+
+tabulate>=0.9

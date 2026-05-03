@@ -1,0 +1,3 @@
+method,return_code,mesh_created,output_path,file_size_mb
+poisson,0,True,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/baseline_colmap/dense/meshed-poisson.ply,9.191
+delaunay,0,True,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/baseline_colmap/dense/meshed-delaunay.ply,4.355

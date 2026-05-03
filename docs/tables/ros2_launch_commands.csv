@@ -1,0 +1,5 @@
+step,command
+1,cd /home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export
+2,colcon build --packages-select apollo_lunar_patch_viz
+3,source install/setup.bash
+4,ros2 launch apollo_lunar_patch_viz view_apollo_lunar_patch.launch.py

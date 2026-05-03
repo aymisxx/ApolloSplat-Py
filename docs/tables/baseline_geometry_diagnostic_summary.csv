@@ -1,0 +1,4 @@
+name,type,path,raw_num_points,filtered_num_points,kept_fraction,raw_bbox_x,raw_bbox_y,raw_bbox_z,robust_bbox_x,robust_bbox_y,robust_bbox_z
+fused_dense_point_cloud,point_cloud,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/baseline_colmap/dense/fused.ply,580552,551718,0.9503334757265499,42.27976584434509,6.213388919830322,118.94460582733154,6.78574526309967,3.89917254447937,2.508570909500122
+poisson_mesh_vertices,mesh_vertices,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/baseline_colmap/dense/meshed-poisson.ply,189669,180940,0.9539777190790272,9.09292984008789,5.481712341308594,5.763605833053589,7.333263397216797,4.313929557800293,3.1165549755096436
+delaunay_mesh_vertices,mesh_vertices,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/baseline_colmap/dense/meshed-delaunay.ply,120016,114408,0.9532728969470737,42.27976584434509,5.580324649810791,97.04478740692139,6.981804847717285,4.037731647491455,2.7536919116973877

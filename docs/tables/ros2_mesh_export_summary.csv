@@ -1,0 +1,4 @@
+format,created,path,file_size_mb,num_vertices,num_faces,bbox_x,bbox_y,bbox_z,has_vertex_colors,has_vertex_normals,notes
+ply,True,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export/meshes/apollo_lunar_patch.ply,9.191,189669,377096,9.09292984008789,5.481712341308594,5.763605833053589,True,True,Original selected Poisson mesh copied for ROS2 export.
+obj,True,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export/meshes/apollo_lunar_patch.obj,31.219,189669,377096,9.09292984008789,5.481712341308594,5.763605833053589,True,True,OBJ mesh exported for RViz2 visual mesh workflows.
+stl,True,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export/meshes/apollo_lunar_patch.stl,17.981,189669,377096,9.09292984008789,5.481712341308594,5.763605833053589,True,True,STL mesh exported as geometry-only fallback.

@@ -1,0 +1,5 @@
+item,path,ready,details
+baseline_images,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/baseline_colmap/images,True,15 images found
+baseline_sparse_model,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/baseline_colmap/sparse/0,True,"cameras.bin=OK, images.bin=OK, points3D.bin=OK"
+gaussian_splatting_output_dir,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/gaussian_splatting,True,Output directory created/verified
+gaussian_splatting_repo,/home/twilightpriest/GitHub/gaussian-splatting,True,External repo found

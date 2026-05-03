@@ -1,0 +1,2 @@
+model,fused_ply_path,input_type,num_points,has_colors,bbox_x,bbox_y,bbox_z,file_size_mb
+baseline_N15_registered13,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/baseline_colmap/dense/fused.ply,geometric,580552,True,42.27976584434509,6.213388919830322,118.94460582733154,14.949

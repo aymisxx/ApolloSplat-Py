@@ -1,0 +1,7 @@
+candidate_path,exists,has_train_py,has_render_py,has_convert_py,looks_like_gaussian_splatting_repo
+/home/twilightpriest/GitHub/ApolloSplat-Py/external/gaussian-splatting,False,False,False,False,False
+/home/twilightpriest/GitHub/ApolloSplat-Py/third_party/gaussian-splatting,False,False,False,False,False
+/home/twilightpriest/GitHub/ApolloSplat-Py/gaussian-splatting,False,False,False,False,False
+/home/twilightpriest/GitHub/gaussian-splatting,True,True,True,True,True
+/home/twilightpriest/gaussian-splatting,False,False,False,False,False
+/home/twilightpriest/GitHub/gaussian-splatting,True,True,True,True,True

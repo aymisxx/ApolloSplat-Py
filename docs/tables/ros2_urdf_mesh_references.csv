@@ -1,0 +1,3 @@
+mesh_reference,resolved_path,exists
+package://apollo_lunar_patch_viz/meshes/apollo_lunar_patch.obj,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export/apollo_lunar_patch_viz/meshes/apollo_lunar_patch.obj,True
+package://apollo_lunar_patch_viz/meshes/apollo_lunar_patch.stl,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export/apollo_lunar_patch_viz/meshes/apollo_lunar_patch.stl,True

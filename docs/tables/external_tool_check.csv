@@ -1,0 +1,10 @@
+tool,available,path,version_or_status
+colmap,True,/usr/local/bin/colmap,COLMAP 4.1.0.dev0 (Commit ffb5404e on 2026-04-24 with CUDA)
+git,True,/usr/bin/git,git version 2.43.0
+cmake,True,/usr/bin/cmake,cmake version 3.28.3
+ninja,True,/usr/bin/ninja,1.11.1
+make,True,/usr/bin/make,GNU Make 4.3
+nvidia-smi,True,/usr/bin/nvidia-smi,Sun May  3 13:01:25 2026       
+nvcc,True,/usr/bin/nvcc,nvcc: NVIDIA (R) Cuda compiler driver
+ros2,True,/opt/ros/jazzy/bin/ros2,Traceback (most recent call last):
+colcon,True,/usr/bin/colcon,usage: colcon [-h] [--log-base LOG_BASE] [--log-level LOG_LEVEL]

@@ -1,2 +1,119 @@
-# Auto detect text files and perform LF normalization
+# ============================================================
+# ApolloSplat-Py .gitattributes
+# Text normalization + binary handling
+# Notebook-first Apollo 17 photogrammetry + Gaussian Splatting
+# ============================================================
+
+
+# ============================================================
+# Default text normalization
+# ============================================================
+
 * text=auto
+
+
+# ============================================================
+# Source code
+# ============================================================
+
+*.py text
+*.sh text eol=lf
+*.bash text eol=lf
+*.zsh text eol=lf
+
+
+# ============================================================
+# Jupyter notebooks
+# ============================================================
+
+*.ipynb text
+
+
+# ============================================================
+# Markdown / documentation / config
+# ============================================================
+
+*.md text
+*.rst text
+*.txt text
+*.yml text
+*.yaml text
+*.json text
+*.toml text
+*.ini text
+*.cfg text
+*.csv text
+*.tsv text
+*.xml text
+*.urdf text
+*.xacro text
+*.launch text
+
+
+# ============================================================
+# Images
+# ============================================================
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.bmp binary
+*.gif binary
+*.webp binary
+*.tif binary
+*.tiff binary
+*.exr binary
+*.hdr binary
+
+
+# ============================================================
+# 3D assets / meshes
+# ============================================================
+
+*.ply binary
+*.obj binary
+*.stl binary
+*.dae binary
+*.fbx binary
+*.glb binary
+*.gltf binary
+*.usd binary
+*.usdz binary
+*.mtl text
+
+
+# ============================================================
+# COLMAP / SfM / reconstruction files
+# ============================================================
+
+*.db binary
+*.bin binary
+
+
+# ============================================================
+# Gaussian Splatting files
+# ============================================================
+
+*.splat binary
+*.ksplat binary
+
+
+# ============================================================
+# Optional Git LFS rules
+# Uncomment only if you enable Git LFS.
+# Recommended for storing large meshes/renders directly in GitHub.
+# Otherwise, keep heavy files ignored and submit them separately.
+# ============================================================
+
+# *.ply filter=lfs diff=lfs merge=lfs -text
+# *.obj filter=lfs diff=lfs merge=lfs -text
+# *.stl filter=lfs diff=lfs merge=lfs -text
+# *.dae filter=lfs diff=lfs merge=lfs -text
+# *.fbx filter=lfs diff=lfs merge=lfs -text
+# *.glb filter=lfs diff=lfs merge=lfs -text
+# *.gltf filter=lfs diff=lfs merge=lfs -text
+# *.tif filter=lfs diff=lfs merge=lfs -text
+# *.tiff filter=lfs diff=lfs merge=lfs -text
+# *.exr filter=lfs diff=lfs merge=lfs -text
+# *.splat filter=lfs diff=lfs merge=lfs -text
+# *.ksplat filter=lfs diff=lfs merge=lfs -text

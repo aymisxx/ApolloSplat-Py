@@ -1,0 +1,9 @@
+item,path,exists,file_size_mb
+package.xml,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export/apollo_lunar_patch_viz/package.xml,True,0.001
+CMakeLists.txt,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export/apollo_lunar_patch_viz/CMakeLists.txt,True,0.0
+URDF,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export/apollo_lunar_patch_viz/urdf/apollo_lunar_patch.urdf,True,0.001
+launch,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export/apollo_lunar_patch_viz/launch/view_apollo_lunar_patch.launch.py,True,0.001
+RViz config,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export/apollo_lunar_patch_viz/rviz/apollo_lunar_patch.rviz,True,0.001
+OBJ mesh,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export/apollo_lunar_patch_viz/meshes/apollo_lunar_patch.obj,True,31.219
+PLY mesh,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export/apollo_lunar_patch_viz/meshes/apollo_lunar_patch.ply,True,9.191
+STL mesh,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/ros2_export/apollo_lunar_patch_viz/meshes/apollo_lunar_patch.stl,True,17.981

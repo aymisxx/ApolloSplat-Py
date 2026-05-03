@@ -1,0 +1,16 @@
+image_id,name,num_keypoints,keypoint_dim
+1,apollo17_001.png,9700,6
+2,apollo17_002.png,9120,6
+3,apollo17_003.png,8367,6
+4,apollo17_004.png,10429,6
+5,apollo17_005.png,11619,6
+6,apollo17_006.png,10385,6
+7,apollo17_007.png,10851,6
+8,apollo17_008.png,10228,6
+9,apollo17_009.png,10529,6
+10,apollo17_010.png,8360,6
+11,apollo17_011.png,10600,6
+12,apollo17_012.png,13703,6
+13,apollo17_013.png,10110,6
+14,apollo17_014.png,12842,6
+15,apollo17_015.png,13766,6

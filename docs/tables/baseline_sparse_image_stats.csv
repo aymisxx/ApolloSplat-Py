@@ -1,0 +1,14 @@
+image_id,image_name,camera_id,num_points2D,num_registered_observations
+1,apollo17_001.png,1,9700,9700
+2,apollo17_002.png,1,9120,9120
+3,apollo17_003.png,1,8367,8367
+4,apollo17_004.png,1,10429,10429
+5,apollo17_005.png,1,11619,11619
+6,apollo17_006.png,1,10385,10385
+7,apollo17_007.png,1,10851,10851
+8,apollo17_008.png,1,10228,10228
+9,apollo17_009.png,1,10529,10529
+10,apollo17_010.png,1,8360,8360
+11,apollo17_011.png,1,10600,10600
+12,apollo17_012.png,1,13703,13703
+13,apollo17_013.png,1,10110,10110

@@ -1,0 +1,2 @@
+model_id,model_path,has_cameras_bin,has_images_bin,has_points3D_bin,cameras_bin_size_kb,images_bin_size_kb,points3D_bin_size_kb
+0,/home/twilightpriest/GitHub/ApolloSplat-Py/outputs/baseline_colmap/sparse/0,True,True,True,0.062,3141.786,652.676
