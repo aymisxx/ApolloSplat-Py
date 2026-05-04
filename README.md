@@ -92,7 +92,7 @@ $$
 \mathbf{x}_{ij} \sim \mathbf{K}_i [\mathbf{R}_i \mid \mathbf{t}_i] \mathbf{X}_j
 $$
 
-where $\mathbf{X}_j \in \mathbb{R}^3$ is a reconstructed 3D point, $\mathbf{x}_{ij} \in \mathbb{R}^2$ is its observation in image $i$, $\mathbf{K}_i$ is the camera intrinsic matrix, and $\mathbf{R}_i, \mathbf{t}_i$ are the camera pose (rotation and translation).
+where $\mathbf{X}_j$ in $\mathbb{R}^3$ is a reconstructed 3D point, $\mathbf{x}_{ij}$ in $\mathbb{R}^2$ is its observation in image $i$, $\mathbf{K}_i$ is the camera intrinsic matrix, and $\mathbf{R}_i, \mathbf{t}_i$ are the camera pose (rotation and translation).
 
 ### Sparse Reconstruction / Bundle Adjustment
 
