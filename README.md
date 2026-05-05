@@ -180,9 +180,9 @@ ApolloSplat-Py/
 │       └── ...                              # 26 CSV diagnostic tables
 │
 ├── notebooks/
-│   └── 01_apollosplat_end_to_end.ipynb      # Primary pipeline notebook
+│   └── 01_apollosplat_end_to_end.ipynb      # Pipeline notebook (w/ Author Implementation)
 │
-├── outputs/
+├── outputs/                                 # Created when notebook is executed end-to-end
 │   ├── baseline_colmap/
 │   │   ├── database.db
 │   │   ├── baseline_selected_mesh.ply
