@@ -1,6 +1,6 @@
 # **ApolloSplat-Py**
 
-**Sparse Lunar Photogrammetry to ROS2-Ready Terrain Assets**
+### **Sparse Lunar Photogrammetry to ROS2-Ready Terrain Assets**
 
 > **A Python-based photogrammetry pipeline for reconstructing a lunar terrain patch from Apollo 17 image sequences using COLMAP, meshing, and ROS2/RViz2 asset export.**
 
