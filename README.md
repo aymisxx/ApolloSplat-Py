@@ -4,7 +4,7 @@
 
 > **A Python-based photogrammetry pipeline for reconstructing a lunar terrain patch from Apollo 17 image sequences using COLMAP, meshing, and ROS2/RViz2 asset export.**
 
-![RViz2 visualization of reconstructed Apollo lunar terrain patch](docs/rviz1export/RViz2_snap.png)
+![RViz2 visualization of reconstructed Apollo lunar terrain patch](docs/rviz2export/RViz2_snap.png)
 
 ---
 
@@ -169,7 +169,7 @@ ApolloSplat-Py/
 │   │   ├── fused_dense_point_cloud_top_view_filtered.png
 │   │   ├── poisson_mesh_vertices_top_view_filtered.png
 │   │   └── ...                              # 11 diagnostic figures
-│   ├── rviz1export/
+│   ├── rviz2export/
 │   │   └── RViz2_snap.png
 │   └── tables/
 │       ├── final_project_snapshot.csv
@@ -357,7 +357,7 @@ Delaunay's bounding box in X and Z is ~5–17× larger than Poisson's, confirmin
 
 ### RViz2 Visualization
 
-![RViz2 visualization of reconstructed Apollo lunar terrain patch](docs/rviz1export/RViz2_snap.png)
+![RViz2 visualization of reconstructed Apollo lunar terrain patch](docs/rviz2export/RViz2_snap.png)
 
 ## ROS2 / RViz2 Usage
 
